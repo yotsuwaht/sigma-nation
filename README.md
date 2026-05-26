@@ -1,1 +1,1 @@
-made for personality #1, #2 and #3
+made for personality #1 and #2
