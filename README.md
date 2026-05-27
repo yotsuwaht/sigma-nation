@@ -1,9 +1,6 @@
 made for personality #1 and #2
 
-Messaging app game
--health
--mana
--levels
+just for fun
 
-base damage is defined by nouns and verbs
-adjectives are multipliers, the longer the adjective the greater the multiplier
+Math game
+combat like undertale
